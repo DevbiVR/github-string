@@ -1,0 +1,1 @@
+string str = "This is a string from github.";
